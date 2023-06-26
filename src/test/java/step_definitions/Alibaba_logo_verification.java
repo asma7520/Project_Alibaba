@@ -23,6 +23,7 @@ public class Alibaba_logo_verification extends Base{
 		System.out.println("logo verified");
 		System.out.println("Verify Successfully");
 		System.out.println("Verify Successfully");
+		System.out.println("Verify Successfully");
 	}
 
 
